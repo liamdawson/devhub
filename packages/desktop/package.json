@@ -37,7 +37,7 @@
       "name": "devhub"
     },
     "extraResources": [
-      "**/assets/sounds/**"
+      "assets/sounds/**"
     ],
     "linux": {
       "desktop": {
